@@ -1,7 +1,5 @@
 import { useState } from 'react';
 import {ChevronDown, ChevronUp, Mail, MapPin, Phone } from 'lucide-react';
-import "react-responsive-carousel/lib/styles/carousel.min.css";
-import { Carousel } from 'react-responsive-carousel';
 // Import your images here
 import teatru from '../assets/theater.png'; 
 import MemberReviews from '../components/MemberReviews';
